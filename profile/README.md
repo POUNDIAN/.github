@@ -18,4 +18,4 @@ _This is not a sufficient place to define our desired dataset, nor source it. Th
 
 __Modjourn__
 
-[Modernist Journal's Project](https://modjourn.org/) hosts digitised versions of a number of modernist journals that might be of interest to us, including Blast, Poetry (till 1922), Des Imagistes (+ Some Imagist Poets, Catholic Anthology and Pathology des Dommagistes), The Egoist, The English Review, The Little Review, The New Age, Others, and more. The most obvious omission is The Dial.
+[Modernist Journals Project](https://modjourn.org/) hosts digitised versions of a number of modernist journals that might be of interest to us, including Blast, Poetry (till 1922), Des Imagistes (+ Some Imagist Poets, Catholic Anthology and Pathology des Dommagistes), The Egoist, The English Review, The Little Review, The New Age, Others, and more. The most obvious omission is The Dial.
