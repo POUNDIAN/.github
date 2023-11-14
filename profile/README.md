@@ -11,3 +11,11 @@ The imaged used in the header is currently a shoddy digital version of Gaudier-B
 __A New Font__
 
 Currently the website uses Dante Monotype (+ Dante Monotype Titling for headings). Currently DanteMTTitling breaks the website: it does not have a glyph for the apostrophe, `’` or `'`. In the spirit of the modern, I think a sans-serif font would suit the project better. Any suggestions for fonts are welcome. Even better if someone wanted to make one.
+
+## Resources Online
+
+_This is not a sufficient place to define our desired dataset, nor source it. This is just a note._
+
+__Modjourn__
+
+[Modernist Journal's Project(https://modjourn.org/) hosts digitised versions of a number of modernist journals that might be of interest to us, including Blast, Poetry (till 1922), Des Imagistes (+ Some Imagist Poets, Catholic Anthology and Pathology des Dommagistes), The Egoist, The English Review, The Little Review, The New Age, Others, and more. The most obvious omission is The Dial.
