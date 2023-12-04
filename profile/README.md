@@ -1,5 +1,7 @@
 # POUNDIAN
 
+Support us on [Patreon](https://www.patreon.com/POUNDIAN)
+
 ## Calls for Contribution
 
 The following are a list of tickets open to everyone. If you are interested in resolving any of them, please contact mail@poundian.com. All contributors are listed on the website at [poundian.com/about](https://poundian.com/about).
